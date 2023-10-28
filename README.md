@@ -1,10 +1,6 @@
 ### Hi there 👋. 
 I'm Vladislav, full-time Full Stack developer.
 
-🔭 I’m currently working on several long-term projects under NDA, so... 🤫 <br/>
-🌱 I’m currently learning: Desing Patterns, Dependency Injection, Architecture Design  <br/>
-📫 How to reach me: Telegram [@mificot](https://t.me/mificot) or LinkedIn [in/vladislav-dedovich](https://linkedin.com/in/vladislav-dedovich) <br/>
-
 ## My main tech stack
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
